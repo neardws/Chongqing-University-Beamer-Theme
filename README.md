@@ -22,7 +22,7 @@ Chongqing University (CQU) Beamer Theme for using LaTex to prepare slides
    git clone git@github.com:neardws/Chongqing-University-Beamer-Theme.git
    ```
 
-2. Open the "slide.tex" in your LaTex editor, such as [Overleaf](https://www.overleaf.com/)
+2. Open the "slide.tex" in your LaTex editor, such as [Overleaf](https://www.overleaf.com/)    
    BTW, if you are using MacOS, the [texifier](https://www.texifier.com/mac) is a good-choice
 
 3. File structure is listed as follows.
