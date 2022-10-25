@@ -30,4 +30,4 @@ Chongqing University (CQU) Beamer Theme for using LaTex to prepare slides
    - ref.bib - reference bibTex file 
    - cqu.sty - style file defines the background color and others
    - fig/background.pdf - background image shows the office of the principal
-   - fig/Chongqing_University_Logo.pdg - Logo of Chongqing University
+   - fig/Chongqing_University_Logo.pdf - Logo of Chongqing University
